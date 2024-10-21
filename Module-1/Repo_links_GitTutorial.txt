@@ -1,4 +1,0 @@
-Git Repositories used for Git tutorial:
-https://github.com/ashmita-codes/git-tutorial
-https://github.com/ashmita-codes/git-branching
-https://github.com/ashmita-codes/blink
